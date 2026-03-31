@@ -6,5 +6,5 @@ Israeli Mass Surveillance Unit is a Remote Access Tool, With both interactive Gr
 
 
 Discord: @gal.sys
-Discord: https://discord.gg/ring
+Discord: https://discord.gg/ring0
 
